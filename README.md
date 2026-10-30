@@ -1,4 +1,7 @@
-# Economy Bot
+# Hi
+So I made this ages ago for fun and I lowk forgot it exists. pls do not judge me for any code thats in here 🥰
+---
+## Economy Bot
 An economy bot for Discord!
 
 # Setup
